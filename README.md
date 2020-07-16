@@ -1,4 +1,4 @@
-# 이력서
+# PORTFOLIO
 ## INTRODUCE
 ![프로필이미지](https://github.com/yeonsu1936/resume/raw/master/images/profile.jpg)
 - 이름: 성연수(Sung Yeonsu)
@@ -128,7 +128,7 @@
 - 디지털 포렌식 2급 실기
 
 
-## 수상 경력
+## AWARDS
 #### PBL 캡스톤 우수보고서 공모전 우수상
 - 수상 날짜 : 2020년 02월
 - 성신여자대학교 대학혁신지원사업 우수상
