@@ -13,6 +13,21 @@
 - Facebook: https://www.facebook.com/profile.php?id=100014585354638
 <br/>
 
+## TODO
+**새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
+현재는 아래것들을 익히고 있습니다.
+- Digital Forensic
+- WIFI security with cooperative jamming
+- matlab
+- python 알고리즘
+- 리버싱
+
+앞으로는 아래것들을 준비하고 있습니다.
+- CTF
+- 정보보안기사
+- 디지털 포렌식 2급 실기
+<br/>
+
 ## SKILL
 - Backend : Python, C, MATLAB, PHP, R, Java
 - Database : MySQL, Oracle
@@ -114,21 +129,6 @@
 - 무선 네트워크 환경에서 Intelligent Access Point 보안
 - WIPS 센서를 이용한 공격 탐지 및 차단
 - Slideshare: -
-<br/>
-
-## TODO
-**새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
-현재는 아래것들을 익히고 있습니다.
-- Digital Forensic
-- WIFI security with cooperative jamming
-- matlab
-- python 알고리즘
-- 리버싱
-
-앞으로는 아래것들을 준비하고 있습니다.
-- CTF
-- 정보보안기사
-- 디지털 포렌식 2급 실기
 <br/>
 
 ## AWARDS
