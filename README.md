@@ -9,7 +9,8 @@
 - 취미: 야구보기, 헬스, **CTF**, **카페코딩**, 여행
 - Email: yeonsu1936@gmail.com
 - GitHub: [github.com/yeonsu1936](https://github.com/yeonsu1936)
-
+- Blog: https://blog.naver.com/yeonsu1936
+- Facebook: https://www.facebook.com/profile.php?id=100014585354638
 
 ## SKILL
 - Backend : Python, C, MATLAB, PHP, R, Java
