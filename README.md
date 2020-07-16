@@ -11,13 +11,14 @@
 - GitHub: [github.com/yeonsu1936](https://github.com/yeonsu1936)
 - Blog: https://blog.naver.com/yeonsu1936
 - Facebook: https://www.facebook.com/profile.php?id=100014585354638
+<br/>
 
 ## SKILL
 - Backend : Python, C, MATLAB, PHP, R, Java
 - Database : MySQL, Oracle
 - Front-end : javascript, HTML/CSS
 - Etc : Security, Block Chain, Ubuntu, Kali Linux, Raspberry Pi, Arduino
-
+<br/>
 
 ## EXPERIENCE
 - 성신여대 해킹동아리 I.Sly() 아이슬리 (2020.03 ~ )
@@ -28,12 +29,12 @@
 - 성신스터디그룹 I.Sly(2018.06 ~ 2020.02)
 - K-Girls Day 서포터즈 (2018.07 ~ 2018.09)
 - 성신여대 융합보안동아리 融保工(융보공) (2018.08 ~ 2019.12)
-
+<br/>
 
 ## EDUCATION
 - 성신여자대학교 융합보안공학과 재학(2017 ~ )
 - 봉일천고등학교 졸업(2014 ~ 2016, 이과)
-
+<br/>
 
 ## PROJECT
 ### Mobility 환경에서 드론의 이동성을 활용한 협력적 재머 모델의 보안성 연구(2020.01 ~ )
@@ -53,7 +54,7 @@
 - 공공안전 향상을 위한 공항 키오스크 활용 방안 연구
 - Position : 재난 대비 경로 알고리즘 개발
 - Skill Keywords : Python3, Raspberry Pi, Open CV, Yolo
-
+<br/>
 
 ## PRESENTATION
 ### 지뢰찾기 리버싱(2020.07)
@@ -113,7 +114,7 @@
 - 무선 네트워크 환경에서 Intelligent Access Point 보안
 - WIPS 센서를 이용한 공격 탐지 및 차단
 - Slideshare: -
-
+<br/>
 
 ## TODO
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
@@ -128,7 +129,7 @@
 - CTF
 - 정보보안기사
 - 디지털 포렌식 2급 실기
-
+<br/>
 
 ## AWARDS
 #### PBL 캡스톤 우수보고서 공모전 우수상
