@@ -42,13 +42,13 @@
 - Skill Keywords : Matlab, Raspberry Pi
 
 ### 이미지 카빙 툴 제작(2020.03 ~ 2020.06)
-- 성신여대 인턴십 수업
+- 성신여자대학교 인턴십 수업
 - FAT32 파일시스템의 JPG, PNG, BMP 이미지를 카빙하는 툴 제작
 - Position : JPG, PNG, BMP 카빙 알고리즘 개발, UI 개발
 - Skill Keywords : Python3, PyQt5, Digital Forensics
 
 ### 공공안전 향상을 위한 공항 키오스크 활용 방안 연구(2019.09 ~ 2020.02)
-- 성신여대 융합보안프로젝트 수업
+- 성신여자대학교 융합보안프로젝트 수업
 - 공공안전 향상을 위한 공항 키오스크 활용 방안 연구
 - Position : 재난 대비 경로 알고리즘 개발
 - Skill Keywords : Python3, Raspberry Pi, Open CV, Yolo
@@ -56,30 +56,30 @@
 
 ## PRESENTATION
 ### 지뢰찾기 리버싱(2020.07)
-- 성신여대 해킹동아리 I.Sly() 정보보호의 날 기념 재능기부 발표
+- 성신여자대학교 해킹동아리 I.Sly() 정보보호의 날 기념 재능기부 발표
 - Ollydbg로 지뢰찾기 게임을 리버싱하여 지뢰를 미리 확인하는 실습 진행
 - Position : 지뢰찾기 리버싱 실습 진행, PPT제작
 - Slideshare : https://1drv.ms/b/s!AluTPAvckYAFgQWGBb24chRDqP5j
 
 ### Reversing.kr : Easy Crack 문제 분석하기(2020.04)
-- 성신여대 해킹동아리 I.Sly() 중간점검 발표
+- 성신여자대학교 해킹동아리 I.Sly() 중간점검 발표
 - Position : Ollydbg로 Easy Crack 문제 분석하기, PPT제작 및 발표
 - Slideshare: https://1drv.ms/b/s!AluTPAvckYAFgQZ9BupnLHjymAC0
 
 ### 개인정보보호 이슈로 알아보는 개인정보보호 동향(2019.10)
-- 성신여대 융합보안동아리 融保工 제1회 동향분석 발표
+- 성신여자대학교 융합보안동아리 融保工 제1회 동향분석 발표
 - 바이오정보, GDPR, 사물인터넷으로 알아보는 개인정보보호 발표
 - Position : 팀장, GDPR로 알아보는 개인정보보호 PPT제작 및 발표
 - Slideshare: https://1drv.ms/p/s!AluTPAvckYAFgQfpS2csaTeG-3ij?e=7QolRu
 
 ### Blockchain기반 DDoS 방어 플랫폼 구축 프로젝트(2019.09)
-- 성신여대 융합보안동아리 融保工 제3회 융합보안세미나
+- 성신여자대학교 융합보안동아리 融保工 제3회 융합보안세미나
 - Gladius를 이용해 Blockchain기반 DDoS 방어 플랫폼 구축하기
 - Position : 팀장, Gladius를 이용해 Blockchain기반 DDoS 방어 플랫폼 구축 실습 진행, PPT 제작 및 발표
 - Slideshare: https://1drv.ms/b/s!AluTPAvckYAFfdY_NoNvZEy8Zw0
 
 ### 스피어 피싱을 이용한 악성코드 다운(2019.06)
-- 성신여대 융합보안동아리 融保工 제2회 융합보안세미나
+- 성신여자대학교 융합보안동아리 融保工 제2회 융합보안세미나
 - 사회공학기법인 스피어피싱을 이용하여 악성코드를 다운받게 하는 융합보안시나리오 실습 및 발표
 - Position : 팀장, 융합보안시나리오 설계 및 악성코드 분석
 - Slideshare: https://1drv.ms/b/s!AluTPAvckYAFftsECqUR5xQUWQ8
@@ -97,18 +97,18 @@
 - Slideshare: https://1drv.ms/u/s!AluTPAvckYAFfPaFEk38u03pcPA?e=MLFZGG
 
 ### 디지털포렌식 with EnCase(2019.02)
-- 성신여대 융합보안동아리 融保工 제1회 융합보안세미나
+- 성신여자대학교 융합보안동아리 融保工 제1회 융합보안세미나
 - EnCase툴로 NTFS 파일시스템 파티션 복구 실습 발표
 - Position : 팀장, NTFS 파티션 복구 실습, PPT 제작 및 발표
 - Slideshare: https://1drv.ms/b/s!AluTPAvckYAFgQ1GifTphYPcul5y
 
 ### Kali Linux를 이용한 SQL 인젝션 공격(2018.12)
-- 성신여대 융합보안동아리 融保工 대체과제 발표
+- 성신여자대학교 융합보안동아리 融保工 대체과제 발표
 - Kali Linux를 이용한 SQL 인젝션 공격
 - Slideshare: https://1drv.ms/p/s!AluTPAvckYAFeHeGFsAWhB5QZl4?e=wYyNyo
 
 ### Intelligent Access Point security in wireless network environment(2018.12)
-- 성신여대 네트워크 수업 발표
+- 성신여자대학교 네트워크 수업 발표
 - 무선 네트워크 환경에서 Intelligent Access Point 보안
 - WIPS 센서를 이용한 공격 탐지 및 차단
 - Slideshare: -
