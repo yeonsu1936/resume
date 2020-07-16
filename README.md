@@ -86,15 +86,15 @@
 
 ### 칼리리눅스를 이용한 해킹 실습 진행(8차시)(2019.03~2019.07)
 - **성신여대 융합보안동아리 融保工 리눅스 활동에서 수업 진행**
-- 1주차 : 리눅스 기본 명령어 실습
-- 2주차 : ARP Spoofing과 네트워크 패킷 스니핑(1)
-- 3주차 : OSI 7계층의 이해
-- 4주차 : ARP Spoofing과 네트워크 패킷 스니핑(2)
-- 5주차 : DNS Spoofing using Ettercap
-- 6주차 : SQL Injection, 웹 방화벽 설치와 탐지
-- 7주차 : iptables로 방화벽 구축하기
-- 8주차 : 게시판 만들기
-- Slideshare: https://1drv.ms/u/s!AluTPAvckYAFfPaFEk38u03pcPA?e=MLFZGG
+- **1주차 : 리눅스 기본 명령어 실습**
+- **2주차 : ARP Spoofing과 네트워크 패킷 스니핑(1)**
+- **3주차 : OSI 7계층의 이해**
+- **4주차 : ARP Spoofing과 네트워크 패킷 스니핑(2)**
+- **5주차 : DNS Spoofing using Ettercap**
+- **6주차 : SQL Injection, 웹 방화벽 설치와 탐지**
+- **7주차 : iptables로 방화벽 구축하기**
+- **8주차 : 게시판 만들기**
+- **Slideshare: https://1drv.ms/u/s!AluTPAvckYAFfPaFEk38u03pcPA?e=MLFZGG**
 
 ### 디지털포렌식 with EnCase(2019.02)
 - 성신여자대학교 융합보안동아리 融保工 제1회 융합보안세미나
