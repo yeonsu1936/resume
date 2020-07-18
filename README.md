@@ -78,11 +78,6 @@
 - Position : 지뢰찾기 리버싱 실습 진행, PPT제작
 - Slideshare : https://1drv.ms/b/s!AluTPAvckYAFgQWGBb24chRDqP5j
 
-### Reversing.kr : Easy Crack 문제 분석하기(2020.04)
-- 성신여자대학교 해킹동아리 I.Sly() 중간점검 발표
-- Position : Ollydbg로 Easy Crack 문제 분석하기, PPT제작 및 발표
-- Slideshare: https://1drv.ms/b/s!AluTPAvckYAFgQZ9BupnLHjymAC0
-
 ### 개인정보보호 이슈로 알아보는 개인정보보호 동향(2019.10)
 - 성신여자대학교 융합보안동아리 融保工 제1회 동향분석 발표
 - 바이오정보, GDPR, 사물인터넷으로 알아보는 개인정보보호 발표
