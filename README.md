@@ -18,19 +18,19 @@
 현재는 아래것들을 익히고 있습니다.
 - Digital Forensic
 - WIFI security with cooperative jamming
-- matlab
+- Octave
 - python 알고리즘
 - 리버싱
-
-앞으로는 아래것들을 준비하고 있습니다.
 - CTF
+
+앞으로는 아래것들을 준비할 예정입니다.
 - 정보보안기사
 - 디지털 포렌식 2급 실기
 <br/>
 
 ## SKILL
-- Backend : Python, C, MATLAB, PHP, R, Java
-- Database : MySQL, Oracle
+- Backend : Python, C, Octave, PHP, R, Java
+- Database : MySQL
 - Front-end : javascript, HTML/CSS
 - Etc : Security, Block Chain, Ubuntu, Kali Linux, Raspberry Pi, Arduino
 <br/>
@@ -56,7 +56,7 @@
 - 성신여자대학교 미래융합기술대학원 CSE LAB 프로젝트팀(SecureMobiTalk)
 - 라즈베리파이를 이용한 실제 환경 구현과 시뮬레이션을 통해 Alice의 이동성과 드론의 인공잡음송출 여부에 따라 도청기기의 채널용량(channel capacity)을 비교하여 PHY계층의 보안성을 입증
 - Position : 알고리즘 개발
-- Skill Keywords : Matlab, Raspberry Pi
+- Skill Keywords : Octave, Raspberry Pi
 
 ### 이미지 카빙 툴 제작(2020.03 ~ 2020.06)
 - 성신여자대학교 인턴십 수업
@@ -126,7 +126,7 @@
 - Slideshare: -
 <br/>
 
-## AWARDS
+## HONORS AND AWARDS
 #### PBL 캡스톤 우수보고서 공모전 우수상
 - 수상 날짜 : 2020년 02월
 - 성신여자대학교 대학혁신지원사업 우수상
