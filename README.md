@@ -19,7 +19,6 @@
 - Digital Forensic
 - WIFI security with cooperative jamming
 - Octave
-- python 알고리즘
 - 리버싱
 - CTF
 
@@ -63,12 +62,14 @@
 - FAT32 파일시스템의 JPG, PNG, BMP 이미지를 카빙하는 툴 제작
 - Position : JPG, PNG, BMP 카빙 알고리즘 개발, UI 개발
 - Skill Keywords : Python3, PyQt5, Digital Forensics
+- Slideshare: https://1drv.ms/b/s!AluTPAvckYAFgQ-W7sAtsywk6opD
 
 ### 공공안전 향상을 위한 공항 키오스크 활용 방안 연구(2019.09 ~ 2020.02)
 - 성신여자대학교 융합보안프로젝트 수업
 - 공공안전 향상을 위한 공항 키오스크 활용 방안 연구
 - Position : 재난 대비 경로 알고리즘 개발
 - Skill Keywords : Python3, Raspberry Pi, Open CV, Yolo
+- Slideshare: https://1drv.ms/b/s!AluTPAvckYAFb9AuNsSgQLjaDhQ
 <br/>
 
 ## PRESENTATION
@@ -77,6 +78,10 @@
 - Ollydbg로 지뢰찾기 게임을 리버싱하여 지뢰를 미리 확인하는 실습 진행
 - Position : 지뢰찾기 리버싱 실습 진행, PPT제작
 - Slideshare : https://1drv.ms/b/s!AluTPAvckYAFgQWGBb24chRDqP5j
+
+### 정보보호 및 개인정보보호 관리체계(ISMS-P) 인증 및 주요정보통신기반시설 취약점 진단 컨설팅 제안(2019.12)
+- 성신여자대학교 컨설팅 수업(컨설팅 제안서 과제)
+- Slideshare: https://1drv.ms/b/s!AluTPAvckYAFbrSI0RiyLqlbWjM
 
 ### 개인정보보호 이슈로 알아보는 개인정보보호 동향(2019.10)
 - 성신여자대학교 융합보안동아리 融保工 제1회 동향분석 발표
@@ -89,6 +94,10 @@
 - Gladius를 이용해 Blockchain기반 DDoS 방어 플랫폼 구축하기
 - Position : 팀장, Gladius를 이용해 Blockchain기반 DDoS 방어 플랫폼 구축 실습 진행, PPT 제작 및 발표
 - Slideshare: https://1drv.ms/b/s!AluTPAvckYAFfdY_NoNvZEy8Zw0
+
+### Lab06-02.exe 악성코드분석(2019.06)
+- 성신여자대학교 악성코드 분석 실습 보고서
+- Slideshare: https://1drv.ms/b/s!AluTPAvckYAFcZ8m4orRoZvOYsY
 
 ### 스피어 피싱을 이용한 악성코드 다운(2019.06)
 - 성신여자대학교 융합보안동아리 融保工 제2회 융합보안세미나
