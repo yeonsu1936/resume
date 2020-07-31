@@ -99,6 +99,10 @@
 - 성신여자대학교 악성코드 분석 실습 보고서
 - Slideshare: https://1drv.ms/b/s!AluTPAvckYAFcZ8m4orRoZvOYsY
 
+### XSS(Cross-site scripting) 공격과 대응 방안 - 입력값 검증 필터링(2019.06)
+- 성신여자대학교 웹보안실습 수업 보고서
+- Slideshare: https://1drv.ms/b/s!AluTPAvckYAFcOWZR2li31yvDxw
+
 ### 스피어 피싱을 이용한 악성코드 다운(2019.06)
 - 성신여자대학교 융합보안동아리 融保工 제2회 융합보안세미나
 - 사회공학기법인 스피어피싱을 이용하여 악성코드를 다운받게 하는 융합보안시나리오 실습 및 발표
