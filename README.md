@@ -6,7 +6,7 @@
 
 정보보안, 디지털 포렌식, 리버스 엔지니어링, 무선통신보안을 공부하는 대학생입니다.
 
-- 취미: **야구보기**, CTF 문제 풀기, **카페코딩**, 여행
+- 취미: **야구보기**, **CTF 문제 풀기**, 카페 코딩, 여행
 - Email: yeonsu1936@gmail.com
 - GitHub: [github.com/yeonsu1936](https://github.com/yeonsu1936)
 - Git Blog : https://yeonsu1936.github.io/
