@@ -39,7 +39,7 @@
 
 ## EXPERIENCE
 - 이빛컴퍼니 카페이사업부 인턴 (2020.06 ~ 2020.12)
-- 성신여대 해킹동아리 I.Sly() 아이슬리 (2020.03 ~ )
+- 성신여대 해킹동아리 I.Sly() 아이슬리 (2020.02 ~ 2020.05)
 - 안랩 21기 대학생 기자단 (2019.05 ~ 2019.12)
 - EST Family 채용 서포터즈 (2019.01 ~ 2019.02)
 - 성신스터디그룹 BLLAB (2019.08 ~ 2020.01)
@@ -57,6 +57,7 @@
 ## PROJECT
 ### 차량 인포테인먼트 시스템 內 결제 솔루션 데이터 수집/처리 플랫폼 개발 참여(2020.09~ 2020.12)
 - 이빛컴퍼니 카페이사업부
+- Skill Keywords : Python, AWS personlalize, lambda, ec2, step funtions
 - Position :
 1. 데이터 크롤링 시스템 개발
   - 웹 상의 매장, 물건 등의 비정형 데이터 스크랩핑, 데이터 처리 알고리즘 개발
@@ -67,13 +68,21 @@
   - bash, AWS step functions을 이용해 neo4j에 업데이트하는 로직 자동화
 3. aws personalize
   - AWS personalize를 이용한 개인화 추천 알고리즘
-- Skill Keywords : Python, AWS personlalize, lambda, ec2, step funtions
 
-### Mobility 환경에서 드론의 이동성을 활용한 협력적 재머 모델의 보안성 연구(2020.01 ~ )
+### : DMZ: 드론 기반의 모바일 보안 영역 연구(DMZ: Drone Mobile Secure Zone)(2020.01 ~ )
 - 성신여자대학교 CSE LAB(Convergence Security Engineering Lab) 프로젝트팀(SecureMobiTalk)
 - RF 무선통신시스템에서 자율이동체의 이동성과 인공 잡음을 이용해 보안 구역을 형성하여 보안성을 높이는 협력적 우호 재밍 모델을 제안
-- Position : 단일 Jammer 환경에서의 network simulation, DMZ 시뮬레이션 모델 적용 알고리즘 개발(Octave)
 - Skill Keywords : Octave, Raspberry Pi
+- Position :
+1. Jamming 신호 생성 기법 연구
+  - Octave 환경에서 Jamming 신호 생성 기법 연구
+  - 단일, 다중 Jammer 환경에서의 network simulation
+2. IoT mobility 환경에서의 보안 기법 연구
+  - jamming 신호 측정 및 BER과 rssi 사이의 연관관계 분석
+  - DMZ 시뮬레이션 모델 적용 알고리즘 개발(Octave)
+  - 재머를 통해 생성한 보안 영역(security zone) 연구
+  - 연구 효과성 입증
+
 
 ### 이미지 카빙 툴 제작(2020.03 ~ 2020.06)
 - 성신여자대학교 인턴십 수업
