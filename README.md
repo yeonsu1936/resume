@@ -4,9 +4,9 @@
 - 이름: 성연수(Sung Yeonsu)
 
 
-정보보안, 리버스 엔지니어링, 무선통신보안을 공부하는 대학생입니다.
+정보보안, 디지털 포렌식, 리버스 엔지니어링, 무선통신보안을 공부하는 대학생입니다.
 
-- 취미: 야구보기, 헬스, **CTF**, **카페코딩**, 여행
+- 취미: 야구보기, **CTF 문제 풀기**, **카페코딩**, 여행
 - Email: yeonsu1936@gmail.com
 - GitHub: [github.com/yeonsu1936](https://github.com/yeonsu1936)
 - Git Blog : https://yeonsu1936.github.io/
@@ -22,20 +22,23 @@
 - Octave
 - 리버싱
 - CTF
+<br/>
 
 앞으로는 아래것들을 준비할 예정입니다.
-- 정보보안기사
 - 디지털 포렌식 2급 실기
+- 정보보안기사
+- 정보처리기사
 <br/>
 
 ## SKILL
 - Backend : Python, C, Octave, PHP, R, Java
-- Database : MySQL
+- Database : Neo4j, MySQL
 - Front-end : javascript, HTML/CSS
-- Etc : Security, Block Chain, Ubuntu, Kali Linux, Raspberry Pi, Arduino
+- Etc : Security, Digital Forensics, Ubuntu, Kali Linux, AWS Cloud Platform, Raspberry Pi, Arduino, Block Chain
 <br/>
 
 ## EXPERIENCE
+- 이빛컴퍼니 카페이사업부 인턴 (2020.06 ~ 2020.12)
 - 성신여대 해킹동아리 I.Sly() 아이슬리 (2020.03 ~ )
 - 안랩 21기 대학생 기자단 (2019.05 ~ 2019.12)
 - EST Family 채용 서포터즈 (2019.01 ~ 2019.02)
@@ -52,6 +55,20 @@
 <br/>
 
 ## PROJECT
+### 차량 인포테인먼트 시스템 內 결제 솔루션 데이터 수집/처리 플랫폼 개발 참여(2020.09~ 2020.12)
+- 이빛컴퍼니 카페이사업부
+- Position :
+1. 데이터 크롤링 시스템 개발
+  - 웹 상의 매장, 물건 등의 비정형 데이터 스크랩핑, 데이터 처리 알고리즘 개발
+  - Neo4j 그래프 데이터베이스에 데이터 등록 및 관리
+2. 데이터 스크랩핑 로직 자동화
+  - 공공데이터포텔의 데이터가 업데이트 될 때 마다 변경 데이터 찾기
+  - AWS lambda를 이용한 데이터 업데이트 함수 작성
+  - bash, AWS step functions을 이용해 neo4j에 업데이트하는 로직 자동화
+3. aws personalize
+  - AWS personalize를 이용한 개인화 추천 알고리즘
+- Skill Keywords : Python, AWS personlalize, lambda, ec2, step funtions
+
 ### Mobility 환경에서 드론의 이동성을 활용한 협력적 재머 모델의 보안성 연구(2020.01 ~ )
 - 성신여자대학교 CSE LAB(Convergence Security Engineering Lab) 프로젝트팀(SecureMobiTalk)
 - RF 무선통신시스템에서 자율이동체의 이동성과 인공 잡음을 이용해 보안 구역을 형성하여 보안성을 높이는 협력적 우호 재밍 모델을 제안
@@ -141,6 +158,10 @@
 <br/>
 
 ## HONORS AND AWARDS
+#### SW개발보안 경진대회 소개딩 시즌2 본선 진출
+- 날짜 : 2020년 08월
+- 팀장, 코로나 안전 APP 개발, 시큐어 코딩
+
 #### PBL 캡스톤 우수보고서 공모전 우수상
 - 수상 날짜 : 2020년 02월
 - 성신여자대학교 대학혁신지원사업 우수상
@@ -153,22 +174,43 @@
 - SNS 콘텐츠 부분 최우수 리포터상(1등), 우수 리포터상(2등)
 - 팀원
 
-#### 성신여자대학교 융합보안공학과 아이디어 해커톤 우수상
+#### 융합보안공학과 아이디어 해커톤 우수상
 - 수상 날짜 : 2019년 11월
 - 성신여자대학교 융합보안공학과 아이디어 해커톤 우수상
 - Smart Mirror를 활용한 정신건강 상태 분석 및 AI 상담 서비스
 - 팀장
+
+#### 성신스터디그룹 최우수상(PLC 트랙)
+- 수상 날짜 : 2019년 8월
+- 성신여자대학교 성신스터디그룹 최우수상
+- For Digital Forensics Expersts (디지털 포렌식 스터디그룹)
+- 팀장
+
+#### 성신스터디그룹 장려상(CLC 트랙)
+- 수상 날짜 : 2019년 8월
+- 성신여자대학교 성신스터디그룹 우수상
+- I.Sly() (리버스 엔지니어링, 해킹, ctf 스터디그룹)
+- 팀원
+
+#### 성신스터디그룹 장려상(PLC 트랙)
+- 수상 날짜 : 2019년 8월
+- 성신여자대학교 성신스터디그룹 우수상
+- 融保工(융보공) : 융합보안동아리
+- 팀원
 
 #### K-Girls Day 최우수 서포터즈 산업통상자원부장관상(1등)
 - 수상 날짜 : 2018년 12월
 <br/>
 
 ## CERTIFICATE
+- ICT 학점연계인턴십(이빛컴퍼니) 수료 (2020.06 ~ 2020.12)
+- 성신여자대학교 해킹동아리 I.Sly() 수료 (2020.02 ~ 2020.05)
 - 안랩 21기 대학생 기자단 수료(2019.12)
+- 디지털포렌식전문가 2급 필기 합격 (2019.08)
 - For Digital Forensic Experts 성신스터디그룹 수료(2019.03 ~ 2019.07)
 - 성신여자대학교 융합보안공학과 c programming on raspberry pi 수료(2018.06, 15시간)
 - 청년여성 멘토링 그룹 멘토링(한국마이크로소프트 부사장) 수료(2018.06 ~ 2018.11)
-- For Digital Forensic Experts 성신스터디그룹 수료(2019.03 ~ 2019.07)
+- 일반경비원 신임교육 이수(2018.01.07)
 
 <br/>
 
