@@ -75,13 +75,13 @@
 - Skill Keywords : Octave, Raspberry Pi
 - Position :
   1. Jamming 신호 생성 기법 연구
-    - Octave 환경에서 Jamming 신호 생성 기법 연구
-    - 단일, 다중 Jammer 환경에서의 network simulation
+      - Octave 환경에서 Jamming 신호 생성 기법 연구
+      - 단일, 다중 Jammer 환경에서의 network simulation
   2. IoT mobility 환경에서의 보안 기법 연구
-    - jamming 신호 측정 및 BER과 rssi 사이의 연관관계 분석
-    - DMZ 시뮬레이션 모델 적용 알고리즘 개발(Octave)
-    - 재머를 통해 생성한 보안 영역(security zone) 연구
-    - 연구 효과성 입증
+      - jamming 신호 측정 및 BER과 rssi 사이의 연관관계 분석
+      - DMZ 시뮬레이션 모델 적용 알고리즘 개발(Octave)
+      - 재머를 통해 생성한 보안 영역(security zone) 연구
+      - 연구 효과성 입증
 
 
 ### 이미지 카빙 툴 제작(2020.03 ~ 2020.06)
