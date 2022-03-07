@@ -4,6 +4,7 @@
 - 이름: 성연수(Sung Yeonsu)
 
 Incident Response Analyst at Cyberone Inc.
+<br/>
 정보보안, 디지털 포렌식, 리버스 엔지니어링, 무선통신보안을 공부하는 직장인입니다.
 
 - 취미: **Forensics/Web CTF**, **CrossFit**, **Spinning**, **Traveling**
