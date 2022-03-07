@@ -3,10 +3,10 @@
 ![프로필이미지](https://github.com/yeonsu1936/resume/raw/master/images/profile.jpg)
 - 이름: 성연수(Sung Yeonsu)
 
+Incident Response Analyst at Cyberone Inc.
+정보보안, 디지털 포렌식, 리버스 엔지니어링, 무선통신보안을 공부하는 직장인입니다.
 
-정보보안, 디지털 포렌식, 리버스 엔지니어링, 무선통신보안을 공부하는 대학생입니다.
-
-- 취미: **야구보기**, **CTF 문제 풀기**, 카페 코딩, 여행
+- 취미: **Forensics/Web CTF**, **CrossFit**, **Spinning**, **Traveling**
 - Email: yeonsu1936@gmail.com
 - GitHub: [github.com/yeonsu1936](https://github.com/yeonsu1936)
 - Git Blog : https://yeonsu1936.github.io/
@@ -18,15 +18,12 @@
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
 현재는 아래것들을 익히고 있습니다.
 - Digital Forensic
-- WIFI security with cooperative jamming
-- Octave
-- 리버싱
+- Incident Response
+- 정보보안기사
 - CTF
 <br/>
 
 앞으로는 아래것들을 준비할 예정입니다.
-- 디지털 포렌식 2급 실기
-- 정보보안기사
 - 정보처리기사
 <br/>
 
@@ -37,8 +34,12 @@
 - Etc : Security, Digital Forensics, Ubuntu, Kali Linux, AWS Cloud Platform, Raspberry Pi, Arduino, Block Chain
 <br/>
 
+## WORK EXPERIENCE
+- 싸이버원 보안관제센터 분석팀, 주임, 침해사고 분석(IR, Incident Response) (2021.03 ~ 현재)
+- 이빛컴퍼니 카페이사업부 인턴 (2020.06 ~ 2020.12, 6개월)
+<br/>
+
 ## EXPERIENCE
-- 이빛컴퍼니 카페이사업부 인턴 (2020.06 ~ 2020.12)
 - 성신여대 해킹동아리 I.Sly() 아이슬리 (2020.02 ~ 2020.05)
 - 안랩 21기 대학생 기자단 (2019.05 ~ 2019.12)
 - EST Family 채용 서포터즈 (2019.01 ~ 2019.02)
@@ -50,8 +51,12 @@
 <br/>
 
 ## EDUCATION
-- 성신여자대학교 융합보안공학과 재학(2017 ~ )
+- 성신여자대학교 융합보안공학과 졸업(2017 ~ 2021.08)
 - 봉일천고등학교 졸업(2014 ~ 2016, 이과)
+<br/>
+
+## JOURNALS 
+Ga-Hye Jeon, Ji-Hyun Lee, Yeon-Su Sung, Hyun-Ju Park, You-Jin Lee, Sun-Woo Yun and Il-Gu Lee, "Cooperative Friendly Jamming Techniques for Drone-based Mobile Secure Zone," Sensors, Vol. 22, No. 865, Jan. 2022 (SCI, IF 3.576).
 <br/>
 
 ## PROJECT
@@ -69,8 +74,8 @@
   **3. aws personalize**
     - AWS personalize를 이용한 개인화 추천 알고리즘
 
-### DMZ: 드론 기반의 모바일 보안 영역 연구(DMZ: Drone Mobile Secure Zone)(2020.01 ~ )
-- 성신여자대학교 CSE LAB(Convergence Security Engineering Lab) 프로젝트팀(SecureMobiTalk)
+### DMZ: 드론 기반의 모바일 보안 영역 연구(DMZ: Drone Mobile Secure Zone)(2020.01 ~ 2022.1.24)
+- 성신여자대학교 CSE LAB(Convergence Security Engineering Lab) 프로젝트팀
 - RF 무선통신시스템에서 자율이동체의 이동성과 인공 잡음을 이용해 보안 구역을 형성하여 보안성을 높이는 협력적 우호 재밍 모델을 제안
 - Skill Keywords : Octave, Raspberry Pi
 - Position :
@@ -82,7 +87,6 @@
     - DMZ 시뮬레이션 모델 적용 알고리즘 개발(Octave)
     - 재머를 통해 생성한 보안 영역(security zone) 연구
     - 연구 효과성 입증
-
 
 ### 이미지 카빙 툴 제작(2020.03 ~ 2020.06)
 - 성신여자대학교 인턴십 수업
@@ -212,6 +216,7 @@
 <br/>
 
 ## CERTIFICATE
+- 디지털포렌식전문가(Digital Forensic Expert) 2급, (사)한국포렌식학회, 식별번호 2021-06-2-017 (2021.07, 만료일 없음)
 - ICT 학점연계인턴십(이빛컴퍼니) 수료 (2020.06 ~ 2020.12)
 - 성신여자대학교 해킹동아리 I.Sly() 수료 (2020.02 ~ 2020.05)
 - 안랩 21기 대학생 기자단 수료(2019.12)
@@ -221,7 +226,6 @@
 - 성신여자대학교 융합보안공학과 c programming on raspberry pi 수료(2018.06, 15시간)
 - 청년여성 멘토링 그룹 멘토링(한국마이크로소프트 부사장) 수료(2018.06 ~ 2018.11)
 - 일반경비원 신임교육 이수(2018.01.07)
-
 <br/>
 
 ----
