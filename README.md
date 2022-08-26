@@ -11,7 +11,6 @@ Incident Response Analyst at Cyberone Inc.
 - Email: yeonsu1936@gmail.com
 - GitHub: [github.com/yeonsu1936](https://github.com/yeonsu1936)
 - Git Blog : https://yeonsu1936.github.io/
-- Naver Blog : https://blog.naver.com/yeonsu1936
 - Facebook: https://www.facebook.com/profile.php?id=100014585354638
 <br/>
 
